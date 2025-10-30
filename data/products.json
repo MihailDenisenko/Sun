@@ -1,0 +1,47 @@
+{
+  "bandana": {
+    "name": "Бандана",
+    "category": "headwear",
+    "colors": ["белый", "черный", "красный", "синий"],
+    "sizes": ["универсальный"],
+    "price": 150,
+    "image": "img/catalog/bandana.png",
+    "description": "Хлопковая бандана с принтом"
+  },
+  "hoodie_os": {
+    "name": "Худи Оверсайз Унисекс",
+    "category": "hoodies",
+    "colors": ["зеленый", "желтый", "синий", "черный", "белый"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "price": 1892,
+    "image": "img/catalog/hoodieOS.png",
+    "description": "Унисекс худи оверсайз премиум качества"
+  },
+  "pants_fem": {
+    "name": "Штаны женские демисезонные",
+    "category": "pants",
+    "colors": ["черный", "серый", "бордовый"],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+    "price": 1159,
+    "image": "img/catalog/pantsFemDemiSeason.png",
+    "description": "Трикотажные штаны женские демисезонные"
+  },
+  "mask_standard": {
+    "name": "Маска защитная \"Стандарт\"",
+    "category": "masks",
+    "colors": ["белый", "черный", "голубой"],
+    "sizes": ["универсальный"],
+    "price": 67,
+    "image": "img/catalog/maski2.png",
+    "description": "Защитная маска стандартного размера"
+  },
+  "tshirt_tail": {
+    "name": "Футболка \"Хвост\"",
+    "category": "tshirts",
+    "colors": ["белый", "черный", "красный"],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "price": 355,
+    "image": "img/catalog/hvost.png",
+    "description": "Футболка удлинённая унисекс с разрезами"
+  }
+}
