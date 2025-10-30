@@ -1,9 +1,9 @@
 🛍️ Telegram Shop Bot - "Солнышко"
 <div align="center">
-https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white
-https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram&logoColor=white
-https://img.shields.io/badge/SQLite-Database-green?logo=sqlite&logoColor=white
-https://img.shields.io/badge/JSON-Data%2520Store-orange?logo=json&logoColor=white
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-green?logo=sqlite&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Data%20Store-orange?logo=json&logoColor=white)
 
 Полнофункциональный Telegram бот для интернет-магазина одежды
 
